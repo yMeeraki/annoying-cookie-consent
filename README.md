@@ -20,8 +20,5 @@ A fun frontend project that simulates a dark-pattern cookie consent modal.
 - Working with event listeners
 - Creating interactive UX patterns
 
-## Demo
-![Live Link](https://ymeeraki.github.io/annoying-cookie-consent/)
-
 ## Screenshots
 ![screenshot](/images/screenshot.png)
